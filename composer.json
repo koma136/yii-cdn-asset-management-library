@@ -1,7 +1,7 @@
 {
     "name": "koma136/yii-cdn-asset-management-library",
     "description": "CDN Asset Management tools for Yii.",
-    "keywords": ["yii", "extension", "component", "aws", "library"],
+    "keywords": ["yii", "extension", "component", "aws", "library", "cdn"],
     "type": "yii-extension",
     "license": "BSD-3-Clause",
     "authors": [
